@@ -102,3 +102,44 @@ a{
     display: none;
 }
 /* Nav Bar End */
+/* Nav Bar BB*/
+.navbarbb{
+    width: 100%;
+    min-height: 80px;
+    border-bottom: 1px solid #eeeeee;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+.navbarbb h1{
+    color: #31032b;
+    font-family: Montserrat, sans-serif;
+    font-weight:500;
+}
+/* Nav Bar End */
+
+/* Main*/
+.main {
+    width: 100%;
+    min-height: 80px;
+    border-bottom: 1px solid #eeeeee;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+.main h1{
+    color: #31032b;
+    font-family: Montserrat, sans-serif;
+    font-weight:500;
+}
+.main h1{
+    color: #31032b;
+    font-family: Montserrat, sans-serif;
+    font-weight:500;
+}
+.main h1{
+    color: #31032b;
+    font-family: Montserrat, sans-serif;
+    font-weight:500;
+}
+/* Main End */
